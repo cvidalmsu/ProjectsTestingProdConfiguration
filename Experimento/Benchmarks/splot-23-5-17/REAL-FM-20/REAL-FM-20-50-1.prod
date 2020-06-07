@@ -1,0 +1,1 @@
+idle_control;priority_32;location;thread_strategy;float_set;scheduler_lockable;non_preemptable_threads;thread_schedule;idle_user;thread_instance;bundle_fcfs;priority_cooperative;multiple;priority_behaviour;integrated;bundle_strategy_replugging;priority_16;minimal_set;dispach_method;bundle_preemption;bundle_schedule;idle_guard;

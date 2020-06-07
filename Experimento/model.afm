@@ -1,0 +1,14 @@
+%Relationships
+PS2: A [B] [C];
+A: [1,2]{A1 A2};
+B: B1 [B2] [B3] [B4];
+C: [1,2]{C1 C2};
+
+%Attributes
+B.cost: Integer[4 to 10],4,0;
+B.benefit: Integer[6 to 15],6,0;
+B.risk: Integer[3 to 8],3,0;
+
+%Constraints
+B2 REQUIRES C1;
+B1 REQUIRES C2;

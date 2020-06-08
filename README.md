@@ -1,6 +1,6 @@
 # FaMaProdConf TestSuite
 
-This are the TestSuite projects for Testing Product Configuration in Feature Models in FaMa. Next, we describe projects experiments and Choco2Reasomer.
+This are the TestSuite projects for Testing Product Configuration in Feature Models in FaMa. Next, we describe projects experiments and Choco2Reasoner.
 
 
 ### Choco2Reasoner
